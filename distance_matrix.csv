@@ -1,0 +1,463 @@
+﻿InputID,TargetID,Distance
+Transport Central,ACE,21.62921918
+Transport Central,Akademiska hus,216.2631484
+Transport Central,Biblioteket,245.7795289
+Transport Central,CFAB,648.1893702
+Transport Central,Chalmers verksamhetsstod,385.4734184
+Transport Central,E-huset,91.73190579
+Transport Central,Fysik,388.9161932
+Transport Central,GMV,663.5327934
+Transport Central,Karen/Cremona,370.0739837
+Transport Central,Kemi,347.0390727
+Transport Central,Maskin,102.7615887
+Transport Central,Mattematiska Vetenskaper,254.9430241
+Transport Central,Mistra Urban Futures,699.3325979
+Transport Central,SB3,237.0839472
+Transport Central,SGI,527.8584659
+Transport Central,Stiftelsen,623.5560678
+Transport Central,Teknikparken,424.209161
+Transport Central,Vasa 11 V3,520.6536716
+Transport Central,Vasa 15,439.3257425
+Transport Central,Vasa 2-3,644.6929078
+Transport Central,Vasa 7,578.8647979
+ACE,Transport Central,21.62921918
+ACE,Akademiska hus,211.3850538
+ACE,Biblioteket,250.2833711
+ACE,CFAB,649.0945788
+ACE,Chalmers verksamhetsstod,375.4742603
+ACE,E-huset,71.31390384
+ACE,Fysik,381.7692638
+ACE,GMV,664.314437
+ACE,Karen/Cremona,355.3658753
+ACE,Kemi,348.8755884
+ACE,Maskin,94.32784662
+ACE,Mattematiska Vetenskaper,252.7919943
+ACE,Mistra Urban Futures,702.3068118
+ACE,SB3,215.9508128
+ACE,SGI,528.392553
+ACE,Stiftelsen,628.146613
+ACE,Teknikparken,406.9167913
+ACE,Vasa 11 V3,524.1989464
+ACE,Vasa 15,444.1496083
+ACE,Vasa 2-3,647.415583
+ACE,Vasa 7,577.5350935
+Akademiska hus,Transport Central,216.2631484
+Akademiska hus,ACE,211.3850538
+Akademiska hus,Biblioteket,105.6026649
+Akademiska hus,CFAB,446.3448011
+Akademiska hus,Chalmers verksamhetsstod,181.6298317
+Akademiska hus,E-huset,183.6499638
+Akademiska hus,Fysik,174.4700108
+Akademiska hus,GMV,461.0446093
+Akademiska hus,Karen/Cremona,206.6705738
+Akademiska hus,Kemi,158.8271571
+Akademiska hus,Maskin,118.2586229
+Akademiska hus,Mattematiska Vetenskaper,49.93201167
+Akademiska hus,Mistra Urban Futures,507.0833739
+Akademiska hus,SB3,235.6278421
+Akademiska hus,SGI,325.620755
+Akademiska hus,Stiftelsen,442.2161838
+Akademiska hus,Teknikparken,538.5599769
+Akademiska hus,Vasa 11 V3,335.0973927
+Akademiska hus,Vasa 15,266.4777374
+Akademiska hus,Vasa 2-3,451.7509707
+Akademiska hus,Vasa 7,369.1746342
+Biblioteket,Transport Central,245.7795289
+Biblioteket,ACE,250.2833711
+Biblioteket,Akademiska hus,105.6026649
+Biblioteket,CFAB,406.3590062
+Biblioteket,Chalmers verksamhetsstod,246.527394
+Biblioteket,E-huset,251.1321919
+Biblioteket,Fysik,216.1474403
+Biblioteket,GMV,421.9452362
+Biblioteket,Karen/Cremona,299.2225039
+Biblioteket,Kemi,106.4884515
+Biblioteket,Maskin,176.8274248
+Biblioteket,Mattematiska Vetenskaper,77.54419328
+Biblioteket,Mistra Urban Futures,453.9241374
+Biblioteket,SB3,334.9916617
+Biblioteket,SGI,288.0884221
+Biblioteket,Stiftelsen,377.9594837
+Biblioteket,Teknikparken,623.9657182
+Biblioteket,Vasa 11 V3,274.9941902
+Biblioteket,Vasa 15,193.8697728
+Biblioteket,Vasa 2-3,399.5652084
+Biblioteket,Vasa 7,345.8144158
+CFAB,Transport Central,648.1893702
+CFAB,ACE,649.0945788
+CFAB,Akademiska hus,446.3448011
+CFAB,Biblioteket,406.3590062
+CFAB,Chalmers verksamhetsstod,371.1966744
+CFAB,E-huset,629.9844817
+CFAB,Fysik,323.6697728
+CFAB,GMV,15.73748234
+CFAB,Karen/Cremona,470.1157433
+CFAB,Kemi,301.459867
+CFAB,Maskin,561.627994
+CFAB,Mattematiska Vetenskaper,399.0583387
+CFAB,Mistra Urban Futures,83.16619616
+CFAB,SB3,649.2302893
+CFAB,SGI,120.9551101
+CFAB,Stiftelsen,111.802637
+CFAB,Teknikparken,966.7974647
+CFAB,Vasa 11 V3,145.0472142
+CFAB,Vasa 15,228.9121484
+CFAB,Vasa 2-3,54.64936854
+CFAB,Vasa 7,94.70096718
+Chalmers verksamhetsstod,Transport Central,385.4734184
+Chalmers verksamhetsstod,ACE,375.4742603
+Chalmers verksamhetsstod,Akademiska hus,181.6298317
+Chalmers verksamhetsstod,Biblioteket,246.527394
+Chalmers verksamhetsstod,CFAB,371.1966744
+Chalmers verksamhetsstod,E-huset,325.9560659
+Chalmers verksamhetsstod,Fysik,55.23576055
+Chalmers verksamhetsstod,GMV,382.5394725
+Chalmers verksamhetsstod,Karen/Cremona,100.5314322
+Chalmers verksamhetsstod,Kemi,205.647376
+Chalmers verksamhetsstod,Maskin,282.7142922
+Chalmers verksamhetsstod,Mattematiska Vetenskaper,172.9021286
+Chalmers verksamhetsstod,Mistra Urban Futures,448.8446789
+Chalmers verksamhetsstod,SB3,292.6064513
+Chalmers verksamhetsstod,SGI,268.3836976
+Chalmers verksamhetsstod,Stiftelsen,412.9520296
+Chalmers verksamhetsstod,Teknikparken,607.2461952
+Chalmers verksamhetsstod,Vasa 11 V3,316.3586504
+Chalmers verksamhetsstod,Vasa 15,289.8203871
+Chalmers verksamhetsstod,Vasa 2-3,397.9013932
+Chalmers verksamhetsstod,Vasa 7,277.8218123
+E-huset,Transport Central,91.73190579
+E-huset,ACE,71.31390384
+E-huset,Akademiska hus,183.6499638
+E-huset,Biblioteket,251.1321919
+E-huset,CFAB,629.9844817
+E-huset,Chalmers verksamhetsstod,325.9560659
+E-huset,Fysik,340.6396527
+E-huset,GMV,644.6945709
+E-huset,Karen/Cremona,293.2546061
+E-huset,Kemi,337.1372868
+E-huset,Maskin,74.30776095
+E-huset,Mattematiska Vetenskaper,231.5669706
+E-huset,Mistra Urban Futures,689.5584616
+E-huset,SB3,145.9595559
+E-huset,SGI,509.2099425
+E-huset,Stiftelsen,621.3295992
+E-huset,Teknikparken,376.1013816
+E-huset,Vasa 11 V3,514.9324099
+E-huset,Vasa 15,440.3003051
+E-huset,Vasa 2-3,634.2336787
+E-huset,Vasa 7,551.9009753
+Fysik,Transport Central,388.9161932
+Fysik,ACE,381.7692638
+Fysik,Akademiska hus,174.4700108
+Fysik,Biblioteket,216.1474403
+Fysik,CFAB,323.6697728
+Fysik,Chalmers verksamhetsstod,55.23576055
+Fysik,E-huset,340.6396527
+Fysik,GMV,335.8666136
+Fysik,Karen/Cremona,154.2365018
+Fysik,Kemi,157.7940573
+Fysik,Maskin,287.4521464
+Fysik,Mattematiska Vetenskaper,150.9323538
+Fysik,Mistra Urban Futures,399.107908
+Fysik,SB3,329.0831047
+Fysik,SGI,216.0964203
+Fysik,Stiftelsen,359.3881636
+Fysik,Teknikparken,646.4267777
+Fysik,Vasa 11 V3,261.4639956
+Fysik,Vasa 15,235.5552355
+Fysik,Vasa 2-3,347.0088856
+Fysik,Vasa 7,232.3467954
+GMV,Transport Central,663.5327934
+GMV,ACE,664.314437
+GMV,Akademiska hus,461.0446093
+GMV,Biblioteket,421.9452362
+GMV,CFAB,15.73748234
+GMV,Chalmers verksamhetsstod,382.5394725
+GMV,E-huset,644.6945709
+GMV,Fysik,335.8666136
+GMV,Karen/Cremona,480.9512202
+GMV,Kemi,316.9172792
+GMV,Maskin,576.5938031
+GMV,Mattematiska Vetenskaper,413.9612208
+GMV,Mistra Urban Futures,78.60919279
+GMV,SB3,662.3265982
+GMV,SGI,135.9898823
+GMV,Stiftelsen,120.577715
+GMV,Teknikparken,979.9770019
+GMV,Vasa 11 V3,160.4626679
+GMV,Vasa 15,244.5517779
+GMV,Vasa 2-3,61.61691476
+GMV,Vasa 7,104.9251588
+Karen/Cremona,Transport Central,370.0739837
+Karen/Cremona,ACE,355.3658753
+Karen/Cremona,Akademiska hus,206.6705738
+Karen/Cremona,Biblioteket,299.2225039
+Karen/Cremona,CFAB,470.1157433
+Karen/Cremona,Chalmers verksamhetsstod,100.5314322
+Karen/Cremona,E-huset,293.2546061
+Karen/Cremona,Fysik,154.2365018
+Karen/Cremona,GMV,480.9512202
+Karen/Cremona,Kemi,287.7476643
+Karen/Cremona,Maskin,272.4074699
+Karen/Cremona,Mattematiska Vetenskaper,221.814491
+Karen/Cremona,Mistra Urban Futures,548.6924348
+Karen/Cremona,SB3,219.1170823
+Karen/Cremona,SGI,368.915129
+Karen/Cremona,Stiftelsen,513.3199389
+Karen/Cremona,Teknikparken,522.4217784
+Karen/Cremona,Vasa 11 V3,415.481018
+Karen/Cremona,Vasa 15,382.4326869
+Karen/Cremona,Vasa 2-3,498.1892064
+Karen/Cremona,Vasa 7,376.0282506
+Kemi,Transport Central,347.0390727
+Kemi,ACE,348.8755884
+Kemi,Akademiska hus,158.8271571
+Kemi,Biblioteket,106.4884515
+Kemi,CFAB,301.459867
+Kemi,Chalmers verksamhetsstod,205.647376
+Kemi,E-huset,337.1372868
+Kemi,Fysik,157.7940573
+Kemi,GMV,316.9172792
+Kemi,Karen/Cremona,287.7476643
+Kemi,Maskin,265.1950017
+Kemi,Mattematiska Vetenskaper,108.9359951
+Kemi,Mistra Urban Futures,353.912369
+Kemi,SB3,389.8054772
+Kemi,SGI,182.0700478
+Kemi,Stiftelsen,284.387258
+Kemi,Teknikparken,697.2694562
+Kemi,Vasa 11 V3,177.7951359
+Kemi,Vasa 15,108.6502311
+Kemi,Vasa 2-3,298.8127795
+Kemi,Vasa 7,239.4873405
+Maskin,Transport Central,102.7615887
+Maskin,ACE,94.32784662
+Maskin,Akademiska hus,118.2586229
+Maskin,Biblioteket,176.8274248
+Maskin,CFAB,561.627994
+Maskin,Chalmers verksamhetsstod,282.7142922
+Maskin,E-huset,74.30776095
+Maskin,Fysik,287.4521464
+Maskin,GMV,576.5938031
+Maskin,Karen/Cremona,272.4074699
+Maskin,Kemi,265.1950017
+Maskin,Mattematiska Vetenskaper,162.7176102
+Maskin,Mistra Urban Futures,618.7440505
+Maskin,SB3,187.6610571
+Maskin,SGI,440.6728854
+Maskin,Stiftelsen,548.7142527
+Maskin,Teknikparken,449.1593768
+Maskin,Vasa 11 V3,442.7872551
+Maskin,Vasa 15,366.807895
+Maskin,Vasa 2-3,563.4999749
+Maskin,Vasa 7,486.8172987
+Mattematiska Vetenskaper,Transport Central,254.9430241
+Mattematiska Vetenskaper,ACE,252.7919943
+Mattematiska Vetenskaper,Akademiska hus,49.93201167
+Mattematiska Vetenskaper,Biblioteket,77.54419328
+Mattematiska Vetenskaper,CFAB,399.0583387
+Mattematiska Vetenskaper,Chalmers verksamhetsstod,172.9021286
+Mattematiska Vetenskaper,E-huset,231.5669706
+Mattematiska Vetenskaper,Fysik,150.9323538
+Mattematiska Vetenskaper,GMV,413.9612208
+Mattematiska Vetenskaper,Karen/Cremona,221.814491
+Mattematiska Vetenskaper,Kemi,108.9359951
+Mattematiska Vetenskaper,Maskin,162.7176102
+Mattematiska Vetenskaper,Mistra Urban Futures,458.1368377
+Mattematiska Vetenskaper,SB3,283.0945449
+Mattematiska Vetenskaper,SGI,278.1222092
+Mattematiska Vetenskaper,Stiftelsen,392.3735439
+Mattematiska Vetenskaper,Teknikparken,588.355503
+Mattematiska Vetenskaper,Vasa 11 V3,285.2980363
+Mattematiska Vetenskaper,Vasa 15,216.8838019
+Mattematiska Vetenskaper,Vasa 2-3,402.7998753
+Mattematiska Vetenskaper,Vasa 7,324.7889853
+Mistra Urban Futures,Transport Central,699.3325979
+Mistra Urban Futures,ACE,702.3068118
+Mistra Urban Futures,Akademiska hus,507.0833739
+Mistra Urban Futures,Biblioteket,453.9241374
+Mistra Urban Futures,CFAB,83.16619616
+Mistra Urban Futures,Chalmers verksamhetsstod,448.8446789
+Mistra Urban Futures,E-huset,689.5584616
+Mistra Urban Futures,Fysik,399.107908
+Mistra Urban Futures,GMV,78.60919279
+Mistra Urban Futures,Karen/Cremona,548.6924348
+Mistra Urban Futures,Kemi,353.912369
+Mistra Urban Futures,Maskin,618.7440505
+Mistra Urban Futures,Mattematiska Vetenskaper,458.1368377
+Mistra Urban Futures,SB3,719.8006103
+Mistra Urban Futures,SGI,185.942497
+Mistra Urban Futures,Stiftelsen,90.26876536
+Mistra Urban Futures,Teknikparken,1036.394343
+Mistra Urban Futures,Vasa 11 V3,179.1515861
+Mistra Urban Futures,Vasa 15,263.6059858
+Mistra Urban Futures,Vasa 2-3,55.33835083
+Mistra Urban Futures,Vasa 7,176.374633
+SB3,Transport Central,237.0839472
+SB3,ACE,215.9508128
+SB3,Akademiska hus,235.6278421
+SB3,Biblioteket,334.9916617
+SB3,CFAB,649.2302893
+SB3,Chalmers verksamhetsstod,292.6064513
+SB3,E-huset,145.9595559
+SB3,Fysik,329.0831047
+SB3,GMV,662.3265982
+SB3,Karen/Cremona,219.1170823
+SB3,Kemi,389.8054772
+SB3,Maskin,187.6610571
+SB3,Mattematiska Vetenskaper,283.0945449
+SB3,Mistra Urban Futures,719.8006103
+SB3,SGI,533.8652953
+SB3,Stiftelsen,665.3975811
+SB3,Teknikparken,317.7061748
+SB3,Vasa 11 V3,558.9045186
+SB3,Vasa 15,498.4502176
+SB3,Vasa 2-3,665.4493761
+SB3,Vasa 7,560.5069664
+SGI,Transport Central,527.8584659
+SGI,ACE,528.392553
+SGI,Akademiska hus,325.620755
+SGI,Biblioteket,288.0884221
+SGI,CFAB,120.9551101
+SGI,Chalmers verksamhetsstod,268.3836976
+SGI,E-huset,509.2099425
+SGI,Fysik,216.0964203
+SGI,GMV,135.9898823
+SGI,Karen/Cremona,368.915129
+SGI,Kemi,182.0700478
+SGI,Maskin,440.6728854
+SGI,Mattematiska Vetenskaper,278.1222092
+SGI,Mistra Urban Futures,185.942497
+SGI,SB3,533.8652953
+SGI,Stiftelsen,146.1037708
+SGI,Teknikparken,850.6182289
+SGI,Vasa 11 V3,73.67672598
+SGI,Vasa 15,129.5671253
+SGI,Vasa 2-3,132.0049564
+SGI,Vasa 7,69.11277799
+Stiftelsen,Transport Central,623.5560678
+Stiftelsen,ACE,628.146613
+Stiftelsen,Akademiska hus,442.2161838
+Stiftelsen,Biblioteket,377.9594837
+Stiftelsen,CFAB,111.802637
+Stiftelsen,Chalmers verksamhetsstod,412.9520296
+Stiftelsen,E-huset,621.3295992
+Stiftelsen,Fysik,359.3881636
+Stiftelsen,GMV,120.577715
+Stiftelsen,Karen/Cremona,513.3199389
+Stiftelsen,Kemi,284.387258
+Stiftelsen,Maskin,548.7142527
+Stiftelsen,Mattematiska Vetenskaper,392.3735439
+Stiftelsen,Mistra Urban Futures,90.26876536
+Stiftelsen,SB3,665.3975811
+Stiftelsen,SGI,146.1037708
+Stiftelsen,Teknikparken,978.6076991
+Stiftelsen,Vasa 11 V3,107.2009605
+Stiftelsen,Vasa 15,184.2424428
+Stiftelsen,Vasa 2-3,59.26709993
+Stiftelsen,Vasa 7,171.8731252
+Teknikparken,Transport Central,424.209161
+Teknikparken,ACE,406.9167913
+Teknikparken,Akademiska hus,538.5599769
+Teknikparken,Biblioteket,623.9657182
+Teknikparken,CFAB,966.7974647
+Teknikparken,Chalmers verksamhetsstod,607.2461952
+Teknikparken,E-huset,376.1013816
+Teknikparken,Fysik,646.4267777
+Teknikparken,GMV,979.9770019
+Teknikparken,Karen/Cremona,522.4217784
+Teknikparken,Kemi,697.2694562
+Teknikparken,Maskin,449.1593768
+Teknikparken,Mattematiska Vetenskaper,588.355503
+Teknikparken,Mistra Urban Futures,1036.394343
+Teknikparken,SB3,317.7061748
+Teknikparken,SGI,850.6182289
+Teknikparken,Stiftelsen,978.6076991
+Teknikparken,Vasa 11 V3,871.4998136
+Teknikparken,Vasa 15,804.9693974
+Teknikparken,Vasa 2-3,981.7212858
+Teknikparken,Vasa 7,878.1773175
+Vasa 11 V3,Transport Central,520.6536716
+Vasa 11 V3,ACE,524.1989464
+Vasa 11 V3,Akademiska hus,335.0973927
+Vasa 11 V3,Biblioteket,274.9941902
+Vasa 11 V3,CFAB,145.0472142
+Vasa 11 V3,Chalmers verksamhetsstod,316.3586504
+Vasa 11 V3,E-huset,514.9324099
+Vasa 11 V3,Fysik,261.4639956
+Vasa 11 V3,GMV,160.4626679
+Vasa 11 V3,Karen/Cremona,415.481018
+Vasa 11 V3,Kemi,177.7951359
+Vasa 11 V3,Maskin,442.7872551
+Vasa 11 V3,Mattematiska Vetenskaper,285.2980363
+Vasa 11 V3,Mistra Urban Futures,179.1515861
+Vasa 11 V3,SB3,558.9045186
+Vasa 11 V3,SGI,73.67672598
+Vasa 11 V3,Stiftelsen,107.2009605
+Vasa 11 V3,Teknikparken,871.4998136
+Vasa 11 V3,Vasa 15,85.74170982
+Vasa 11 V3,Vasa 2-3,125.6491601
+Vasa 11 V3,Vasa 7,136.0064364
+Vasa 15,Transport Central,439.3257425
+Vasa 15,ACE,444.1496083
+Vasa 15,Akademiska hus,266.4777374
+Vasa 15,Biblioteket,193.8697728
+Vasa 15,CFAB,228.9121484
+Vasa 15,Chalmers verksamhetsstod,289.8203871
+Vasa 15,E-huset,440.3003051
+Vasa 15,Fysik,235.5552355
+Vasa 15,GMV,244.5517779
+Vasa 15,Karen/Cremona,382.4326869
+Vasa 15,Kemi,108.6502311
+Vasa 15,Maskin,366.807895
+Vasa 15,Mattematiska Vetenskaper,216.8838019
+Vasa 15,Mistra Urban Futures,263.6059858
+Vasa 15,SB3,498.4502176
+Vasa 15,SGI,129.5671253
+Vasa 15,Stiftelsen,184.2424428
+Vasa 15,Teknikparken,804.9693974
+Vasa 15,Vasa 11 V3,85.74170982
+Vasa 15,Vasa 2-3,211.0445841
+Vasa 15,Vasa 7,198.6009881
+Vasa 2-3,Transport Central,644.6929078
+Vasa 2-3,ACE,647.415583
+Vasa 2-3,Akademiska hus,451.7509707
+Vasa 2-3,Biblioteket,399.5652084
+Vasa 2-3,CFAB,54.64936854
+Vasa 2-3,Chalmers verksamhetsstod,397.9013932
+Vasa 2-3,E-huset,634.2336787
+Vasa 2-3,Fysik,347.0088856
+Vasa 2-3,GMV,61.61691476
+Vasa 2-3,Karen/Cremona,498.1892064
+Vasa 2-3,Kemi,298.8127795
+Vasa 2-3,Maskin,563.4999749
+Vasa 2-3,Mattematiska Vetenskaper,402.7998753
+Vasa 2-3,Mistra Urban Futures,55.33835083
+Vasa 2-3,SB3,665.4493761
+Vasa 2-3,SGI,132.0049564
+Vasa 2-3,Stiftelsen,59.26709993
+Vasa 2-3,Teknikparken,981.7212858
+Vasa 2-3,Vasa 11 V3,125.6491601
+Vasa 2-3,Vasa 15,211.0445841
+Vasa 2-3,Vasa 7,133.1610422
+Vasa 7,Transport Central,578.8647979
+Vasa 7,ACE,577.5350935
+Vasa 7,Akademiska hus,369.1746342
+Vasa 7,Biblioteket,345.8144158
+Vasa 7,CFAB,94.70096718
+Vasa 7,Chalmers verksamhetsstod,277.8218123
+Vasa 7,E-huset,551.9009753
+Vasa 7,Fysik,232.3467954
+Vasa 7,GMV,104.9251588
+Vasa 7,Karen/Cremona,376.0282506
+Vasa 7,Kemi,239.4873405
+Vasa 7,Maskin,486.8172987
+Vasa 7,Mattematiska Vetenskaper,324.7889853
+Vasa 7,Mistra Urban Futures,176.374633
+Vasa 7,SB3,560.5069664
+Vasa 7,SGI,69.11277799
+Vasa 7,Stiftelsen,171.8731252
+Vasa 7,Teknikparken,878.1773175
+Vasa 7,Vasa 11 V3,136.0064364
+Vasa 7,Vasa 15,198.6009881
+Vasa 7,Vasa 2-3,133.1610422

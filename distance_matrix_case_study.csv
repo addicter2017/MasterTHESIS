@@ -1,0 +1,65 @@
+﻿InputID,TargetID,Distance
+Transport Central,ACE,21.62921918
+Transport Central,Biblioteket,245.7795289
+Transport Central,E-huset,91.73190579
+Transport Central,Fysik,388.9161932
+Transport Central,Kemi,347.0390727
+Transport Central,Maskin,102.7615887
+Transport Central,SB3,237.0839472
+Transport Central,Vasa 2-3,644.6929078
+ACE,Biblioteket,250.2833711
+ACE,E-huset,71.31390384
+ACE,Fysik,381.7692638
+ACE,Kemi,348.8755884
+ACE,Maskin,94.32784662
+ACE,SB3,215.9508128
+ACE,Vasa 2-3,647.415583
+Biblioteket,ACE,250.2833711
+Biblioteket,E-huset,251.1321919
+Biblioteket,Fysik,216.1474403
+Biblioteket,Kemi,106.4884515
+Biblioteket,Maskin,176.8274248
+Biblioteket,SB3,334.9916617
+Biblioteket,Vasa 2-3,399.5652084
+E-huset,ACE,71.31390384
+E-huset,Biblioteket,251.1321919
+E-huset,Fysik,340.6396527
+E-huset,Kemi,337.1372868
+E-huset,Maskin,74.30776095
+E-huset,SB3,145.9595559
+E-huset,Vasa 2-3,634.2336787
+Fysik,ACE,381.7692638
+Fysik,Biblioteket,216.1474403
+Fysik,E-huset,340.6396527
+Fysik,Kemi,157.7940573
+Fysik,Maskin,287.4521464
+Fysik,SB3,329.0831047
+Fysik,Vasa 2-3,347.0088856
+Kemi,ACE,348.8755884
+Kemi,Biblioteket,106.4884515
+Kemi,E-huset,337.1372868
+Kemi,Fysik,157.7940573
+Kemi,Maskin,265.1950017
+Kemi,SB3,389.8054772
+Kemi,Vasa 2-3,298.8127795
+Maskin,ACE,94.32784662
+Maskin,Biblioteket,176.8274248
+Maskin,E-huset,74.30776095
+Maskin,Fysik,287.4521464
+Maskin,Kemi,265.1950017
+Maskin,SB3,187.6610571
+Maskin,Vasa 2-3,563.4999749
+SB3,ACE,215.9508128
+SB3,Biblioteket,334.9916617
+SB3,E-huset,145.9595559
+SB3,Fysik,329.0831047
+SB3,Kemi,389.8054772
+SB3,Maskin,187.6610571
+SB3,Vasa 2-3,665.4493761
+Vasa 2-3,ACE,647.415583
+Vasa 2-3,Biblioteket,399.5652084
+Vasa 2-3,E-huset,634.2336787
+Vasa 2-3,Fysik,347.0088856
+Vasa 2-3,Kemi,298.8127795
+Vasa 2-3,Maskin,563.4999749
+Vasa 2-3,SB3,665.4493761
