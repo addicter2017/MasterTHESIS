@@ -1,0 +1,36 @@
+,term,estimate,std.error,statistic,p.value,,,,
+1,(Intercept),4.819618125,0.358267836,13.452556,9.08E-33,,,,
+2,length,0.010059689,0.006090824,1.651613818,0.099632428,,,,
+3,volume,3.98E-05,3.76E-06,10.58135181,1.59E-22,,,,
+4,types,2.489474469,0.333227661,7.470791767,8.29E-13,,,,
+5,destinations Akademiska hus,-6.764612919,1.032112182,-6.554145023,2.35E-10,,,,
+6,destinations Chalmers verksamhetsstöd,-0.871636996,0.546171376,-1.59590384,0.111535771,,,,"data_combine[, 1] ~ data_combine[, 4] + data_combine[, 9] + data_combine[, "
+7,destinations E-huset,-3.728479265,0.926108033,-4.025965796,7.15E-05,,,,"    10] + data_combine[, 11] + data_combine[, 12] + data_combine[, "
+8,destinations Fysik,0.498734961,0.57864284,0.861904662,0.389410526,,,,"    13] + data_combine[, 14] + data_combine[, 16] + data_combine[, "
+9,destinations Maskin,-0.557714755,0.258811662,-2.154905816,0.031944086,,,,"    17] + data_combine[, 18] + data_combine[, 19] + data_combine[, "
+10,destinations Postrum SB3,1.336770957,0.92351249,1.447485521,0.148778053,,,,"    20] + data_combine[, 23] + data_combine[, 24] + data_combine[, "
+11,destinations SB3,-1.440282445,0.368701449,-3.906365022,0.000115202,,,,"    25] + data_combine[, 27] + data_combine[, 28] + data_combine[, "
+12,destinations Vasa 2-3,-0.88351483,0.268465512,-3.290980746,0.001114325,,,,"    29] + data_combine[, 32] + data_combine[, 13]:data_combine[, "
+13,commodity Electronic product,1.158232735,0.465002956,2.490807253,0.013271795,,,,"    24] + data_combine[, 14]:data_combine[, 24] + data_combine[, "
+14,commodityIT infrastructure,-0.06097731,0.250750731,-0.243178993,0.808028615,,,,"    18]:data_combine[, 24] + data_combine[, 19]:data_combine[, "
+15,commodity Laboratory equipment,0.363438286,0.434891433,0.835698886,0.403972144,,,,"    24] + data_combine[, 11]:data_combine[, 25] + data_combine[, "
+16,commodity Machinary,-0.762823856,0.253167966,-3.013113656,0.002800424,,,,"    18]:data_combine[, 27] + data_combine[, 13]:data_combine[, "
+17,commodity Medical supply,-1.690071435,0.916705088,-1.843637019,0.066196557,,,,"    28] + data_combine[, 14]:data_combine[, 28] + data_combine[, "
+18,commodity Tools and supplies,0.156830234,0.31093063,0.504389787,0.614348131,,,,"    16]:data_combine[, 28] + data_combine[, 19]:data_combine[, "
+19,destinations E-huset:commodity Electronic product,3.219729668,0.788146042,4.085194235,5.62E-05,,,,"    28] + data_combine[, 10]:data_combine[, 29] + data_combine[, "
+20,destinations Fysik:commodity Electronic product,0.678245101,0.930788662,0.728677871,0.46675241,,,,"    19]:data_combine[, 29] + data_combine[, 14]:data_combine[, "
+21,destinations Maskin:commodity Electronic product,1.630005025,1.140816369,1.428805783,0.154073412,,,,"    32] + data_combine[, 16]:data_combine[, 32] + data_combine[, "
+22,destinations SB3:commodity Electronic product,2.323219854,0.993478856,2.33846935,0.020002441,,,,"    9]:data_combine[, 24] + data_combine[, 9]:data_combine[, "
+23,destinations SB3:commodityIT infrastructure,0.694481354,0.458768983,1.513793172,0.131103768,,,,"    13] + data_combine[, 9]:data_combine[, 14] + data_combine[, "
+24,destinations E-huset:commodity Laboratory equipment,2.087471874,0.691266092,3.019780512,0.002741268,,,,"    9]:data_combine[, 28] + data_combine[, 9]:data_combine[, "
+25,destinations Fysik:commodity Laboratory equipment,0.909344577,0.348671558,2.608026251,0.009550397,,,,"    29] + data_combine[, 9]:data_combine[, 14]:data_combine[, "
+26,destinations Maskin:commodity Laboratory equipment,-1.317490108,0.473777334,-2.780821314,0.005756073,,,,"    24] + data_combine[, 9]:data_combine[, 14]:data_combine[, "
+27,destinations Akademiska hus:commodity Machinary,6.455582766,1.401202715,4.607172608,5.98E-06,,,,    28]
+28,destinations Maskin:commodity Machinary,1.316166189,0.442142548,2.97679152,0.003143805,,,,
+29,destinations Fysik:commodity Tools and supplies,0.994787546,0.480434823,2.070598338,0.039229239,,,,"data_combine[, 1] ~ data_combine[, 4] + data_combine[, 9] + data_combine[,     10] + data_combine[, 11] + data_combine[, 12] + data_combine[,     13] + data_combine[, 14] + data_combine[, 16] + data_combine[,     17] + data_combine[, 18] + data_combine[, 19] + data_combine[,     20] + data_combine[, 23] + data_combine[, 24] + data_combine[,     25] + data_combine[, 27] + data_combine[, 28] + data_combine[,     29] + data_combine[, 32] + data_combine[, 13]:data_combine[,     24] + data_combine[, 14]:data_combine[, 24] + data_combine[,     18]:data_combine[, 24] + data_combine[, 19]:data_combine[,     24] + data_combine[, 11]:data_combine[, 25] + data_combine[,     18]:data_combine[, 27] + data_combine[, 13]:data_combine[,     28] + data_combine[, 14]:data_combine[, 28] + data_combine[,     16]:data_combine[, 28] + data_combine[, 19]:data_combine[,     28] + data_combine[, 10]:data_combine[, 29] + data_combine[,     19]:data_combine[, 29] + data_combine[, 14]:data_combine[,     32] + data_combine[, 16]:data_combine[, 32] + data_combine[,     9]:data_combine[, 24] + data_combine[, 9]:data_combine[,     13] + data_combine[, 9]:data_combine[, 14] + data_combine[,     9]:data_combine[, 28] + data_combine[, 9]:data_combine[,     29] + data_combine[, 9]:data_combine[, 14]:data_combine[,     24] + data_combine[, 9]:data_combine[, 14]:data_combine[,     28]"
+30,destinations Vasa 2-3:commodity Tools and supplies,1.361680738,0.990906546,1.374176751,0.170385943,,,,
+31,types:commodity Electronic product,-4.093066865,0.802026581,-5.103405499,5.85E-07,,,,"data_combine[, 1] ~ data_combine[, 4] + data_combine[, 9] + data_combine[,     10] + data_combine[, 11] + data_combine[, 12] + data_combine[,     13] + data_combine[, 14] + data_combine[, 16] + data_combine[,     17] + data_combine[, 18] + data_combine[, 19] + data_combine[,     20] + data_combine[, 23] + data_combine[, 24] + data_combine[,     25] + data_combine[, 27] + data_combine[, 28] + data_combine[,     29] + data_combine[, 32] + data_combine[, 13]:data_combine[,     24] + data_combine[, 14]:data_combine[, 24] + data_combine[,     18]:data_combine[, 24] + data_combine[, 19]:data_combine[,     24] + data_combine[, 11]:data_combine[, 25] + data_combine[,     18]:data_combine[, 27] + data_combine[, 13]:data_combine[,     28] + data_combine[, 14]:data_combine[, 28] + data_combine[,     16]:data_combine[, 28] + data_combine[, 19]:data_combine[,     28] + data_combine[, 10]:data_combine[, 29] + data_combine[,     19]:data_combine[, 29] + data_combine[, 14]:data_combine[,     32] + data_combine[, 16]:data_combine[, 32] + data_combine[,     9]:data_combine[, 24] + data_combine[, 9]:data_combine[,     13] + data_combine[, 9]:data_combine[, 14] + data_combine[,     9]:data_combine[, 28] + data_combine[, 9]:data_combine[,     29] + data_combine[, 9]:data_combine[, 14]:data_combine[,     24] + data_combine[, 9]:data_combine[, 14]:data_combine[,     28]"
+32,types:destinations E-huset,3.303685435,0.902505598,3.660570573,0.000296041,,,,
+33,types:destinations Fysik,-1.424688821,0.571020876,-2.494985527,0.013119665,,,,
+34,types:commodity Laboratory equipment,-0.927630693,0.458902583,-2.021410919,0.04410185,,,,
+35,types:destinations Fysik:commodity Electronic product,2.72584458,1.197723493,2.275854649,0.023541137,,,,
